@@ -1,0 +1,9 @@
+venv
+cifar-10-batches-py
+.vscode
+__pycache__
+kuda.py
+student_*
+label_*
+train_*
+new_*
